@@ -9,9 +9,12 @@
 }
 
 .card {
-  width: 800px; /* Adjust width as needed */
-  height: 400px; /* Adjust height as needed */
-  background-color: #588970; /* Example background color */
-  border: 2px solid #333; /* Example border */
-  border-radius: 8px; /* Rounded corners, adjust as needed */
+  width: 50%;
+  height: 25rem;
+  background-color: #588970;
+  border: 2px solid #333;
+  border-radius: 8px;
+  margin: left;
+  margin-left: 20%;
+  margin-right: 20%;
 }
